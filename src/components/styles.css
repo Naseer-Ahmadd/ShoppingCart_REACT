@@ -19,6 +19,7 @@
     width: 20%;
     margin: 10px;
     height: 86vh;
+    position: sticky;
 }
 .filters >span{
     padding-bottom: 20px;

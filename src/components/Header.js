@@ -17,7 +17,7 @@ const Header = () => {
     
     }= CartState();
     return (
-    <Navbar bg="dark" variant = "dark" style={{height: 80}}>
+    <Navbar bg="dark" variant = "dark" fixed="top" style={{height: 80}}>
         <Container>
             <Navbar.Brand>
                 <Link to ="/">Shopping Cart</Link>
